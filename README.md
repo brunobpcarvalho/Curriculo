@@ -19,3 +19,9 @@ __Unipar__ - BACHAREL EM SISTEMAS DE INFORMAÇÂO
 # Projetos
 
 * [Projeto TCC - SigInnove](github.com/brunobpcarvalho/sig-innove) - Sistema web para controle financeiro e controle de estoque.
+
+# Redes Sociais
+
+* [Facebook](https://www.facebook.com/bruno.paulucci.54/)
+* [LinkedIn](https://www.linkedin.com/in/bruno-carvalho-a2379115b/)
+
