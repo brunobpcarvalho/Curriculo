@@ -16,3 +16,6 @@ __Unipar__ - BACHAREL EM SISTEMAS DE INFORMAÇÂO
 * Participação em projetos de extensão, fóruns acadêmicos, palestras e gincanas acadêmicas. 
 * Monitor em oficina de HTML/CSS
 
+# Projetos
+
+* [Projeto TCC - SigInnove](github.com/brunobpcarvalho/sig-innove) - Sistema web para controle financeiro e controle de estoque.
