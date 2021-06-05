@@ -29,3 +29,39 @@ NOVEMBRO DE 2018 A JUNHO DE 2020
 
 * __New Format__ - Hardware com Introdução em Redes - 2015
 * __Prepara__ - Rotinas Administrativas - 2015
+
+# Conhecimentos
+
+### Gerais
+* Lógica de Programação
+* Trabalho em Grupo
+* Vontade de Aprender
+* Facilidade de Adaptação
+* Comprometimento
+* Boa comunicação
+
+### Front-end
+* HTML
+* CSS
+* Markdown
+
+### Frameworks
+* Vue.js
+* Bootstrap
+
+
+### Linguagens de Programação
+* JavaScript
+* Java
+* PHP
+
+### Plataforma de Aplicação
+* Node.js
+* ORM Sequelize
+
+### Banco de Dados
+* MySQL
+* PostgreSQL
+
+### Sistemas de controle de versão
+* Git
