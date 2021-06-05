@@ -16,3 +16,16 @@ __Unipar__ - BACHAREL EM SISTEMAS DE INFORMAÇÂO
 * Participação em projetos de extensão, fóruns acadêmicos, palestras e gincanas acadêmicas. 
 * Monitor em oficina de HTML/CSS
 
+# Experiencia Profissional
+
+* __Millenium Cartuchos__ — Técnico em Impressoras <br/>
+OUTUBRO DE 2015 A NOVEMBRO DE 2018
+DE JUNHO DE 2020 ATÉ O MOMENTO <br/>
+
+* __Innove Cartuchos__ — Sócio/Técnico <br/>
+NOVEMBRO DE 2018 A JUNHO DE 2020
+
+# Cursos
+
+* __New Format__ - Hardware com Introdução em Redes - 2015
+* __Prepara__ - Rotinas Administrativas - 2015
